@@ -1,0 +1,13 @@
+{
+  "year": 2016,
+  "rows_used": 50000,
+  "dbscan_eps_km": 0.08,
+  "dbscan_min_samples": 30,
+  "dbscan_clusters": 42,
+  "dbscan_noise_pct": 94.8,
+  "dbscan_silhouette": 0.683,
+  "dbscan_davies_bouldin": 0.299,
+  "kmeans_clusters": 42,
+  "kmeans_silhouette": 0.374,
+  "kmeans_davies_bouldin": 0.802
+}
