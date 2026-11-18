@@ -1,0 +1,72 @@
+hotspot_id,region,level,name,lat,lon,radius_km,crimes,top_crime,peak_hour,peak_day,violent_pct
+CHI-6,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 6,41.88423632559322,-87.62767175622882,0.17770706909651982,236,Theft,12,Saturday,
+CHI-1,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 1,41.88197829467811,-87.62633969317596,0.17411174943714477,233,Theft,12,Friday,
+CHI-3,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 3,41.89064390193717,-87.62864830146597,0.24234171381598207,191,Theft,2,Sunday,
+CHI-11,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 11,41.898449374732834,-87.6240718838168,0.15,131,Theft,16,Saturday,
+CHI-14,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 14,41.87913065190082,-87.62748205008265,0.18669724101731724,121,Theft,14,Friday,
+CHI-29,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 29,41.86606976728972,-87.72049398981308,0.15,107,Narcotics,21,Thursday,
+CHI-15,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 15,41.89134805217822,-87.62416129217821,0.18394824162258547,101,Theft,12,Sunday,
+CHI-13,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 13,41.77838896333334,-87.61556310851851,0.15,81,Battery,20,Friday,
+CHI-17,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 17,41.86703917381578,-87.62621778223684,0.15,76,Theft,18,Sunday,
+CHI-26,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 26,41.90379676236111,-87.62945023638889,0.15,72,Theft,3,Saturday,
+CHI-4,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 4,41.76568981811594,-87.57641788246376,0.15,69,Theft,23,Monday,
+CHI-16,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 16,41.754588936000005,-87.7415198421667,0.15,60,Theft,14,Saturday,
+CHI-8,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 8,41.976330148545436,-87.90516597309087,0.15,55,Theft,7,Sunday,
+CHI-19,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 19,41.73620340886792,-87.62851127622643,0.15,53,Theft,20,Tuesday,
+CHI-28,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 28,41.88024823884616,-87.7537502075,0.15,52,Narcotics,18,Monday,
+CHI-18,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 18,41.75095697204082,-87.62529909755102,0.15,49,Theft,18,Thursday,
+CHI-32,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 32,41.946650159361695,-87.65580791531914,0.15,47,Theft,0,Saturday,
+CHI-37,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 37,41.93993313622223,-87.65318964733333,0.15,45,Theft,3,Saturday,
+CHI-21,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 21,41.86849128288889,-87.6392333791111,0.15,45,Theft,18,Friday,
+CHI-5,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 5,41.88578216568182,-87.6317890881818,0.15,44,Theft,15,Friday,
+CHI-12,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 12,41.75776649022727,-87.58599047499999,0.15,44,Theft,17,Monday,
+CHI-41,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 41,41.88573904500001,-87.62487716568181,0.15,44,Theft,13,Tuesday,
+CHI-2,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 2,41.90983437384615,-87.67669902487181,0.15,39,Theft,13,Sunday,
+CHI-34,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 34,41.896730146842096,-87.62810962842107,0.15,38,Theft,15,Friday,
+CHI-30,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 30,41.87161361756757,-87.62723905864864,0.15,37,Theft,9,Wednesday,
+CHI-24,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 24,41.69594212571429,-87.596276874,0.15,35,Theft,17,Saturday,
+CHI-39,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 39,41.87435509571428,-87.64230437257143,0.15,35,Criminal Trespass,10,Friday,
+CHI-35,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 35,41.9039344267647,-87.63157958,0.15,34,Theft,12,Friday,
+CHI-7,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 7,41.88069377264706,-87.73141225647059,0.15,34,Narcotics,20,Tuesday,
+CHI-33,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 33,41.87848292088235,-87.755848265,0.15,34,Narcotics,13,Friday,
+CHI-36,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 36,41.8852155564706,-87.72607542088235,0.15,34,Robbery,22,Friday,
+CHI-20,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 20,41.86818094,-87.70927139000001,0.15,34,Narcotics,6,Monday,
+CHI-27,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 27,41.86222683029413,-87.63916826352943,0.15,34,Theft,10,Saturday,
+CHI-9,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 9,41.9790063,-87.90646316,0.15,33,Theft,7,Tuesday,
+CHI-10,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 10,41.7427476175,-87.63408914875001,0.15,32,Theft,14,Saturday,
+CHI-25,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 25,41.8670119134375,-87.72350050281251,0.15,32,Narcotics,19,Sunday,
+CHI-22,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 22,41.8807082034375,-87.72626611000001,0.15,32,Narcotics,18,Friday,
+CHI-23,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 23,41.965526140312505,-87.6586296521875,0.15,32,Theft,13,Wednesday,
+CHI-31,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 31,41.777307123125006,-87.64080260624999,0.15,32,Battery,18,Wednesday,
+CHI-40,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 40,41.903615040000005,-87.6672387196774,0.15,31,Theft,3,Saturday,
+CHI-38,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 38,41.892820341666656,-87.62665455433334,0.15,30,Theft,13,Saturday,
+CHI-42,"Chicago, USA",Street-level (DBSCAN),Chicago hotspot 42,41.88471663666667,-87.62463123777778,0.15,9,Deceptive Practice,8,Saturday,
+IN-Delhi,India,City-level,Delhi,28.6139,77.209,20.0,5400,Firearm Offense,13,Wednesday,28.9
+IN-Mumbai,India,City-level,Mumbai,19.076,72.8777,17.8,4415,Sexual Assault,3,Thursday,28.8
+IN-Bangalore,India,City-level,Bangalore,12.9716,77.5946,16.0,3588,Public Intoxication,20,Tuesday,28.1
+IN-Hyderabad,India,City-level,Hyderabad,17.385,78.4867,14.4,2881,Vehicle - Stolen,1,Wednesday,29.7
+IN-Kolkata,India,City-level,Kolkata,22.5726,88.3639,13.6,2518,Fraud,5,Thursday,27.8
+IN-Chennai,India,City-level,Chennai,13.0827,80.2707,13.5,2493,Arson,11,Wednesday,27.7
+IN-Pune,India,City-level,Pune,18.5204,73.8567,12.9,2212,Vandalism,11,Wednesday,27.2
+IN-Ahmedabad,India,City-level,Ahmedabad,23.0225,72.5714,12.0,1817,Assault,22,Wednesday,30.8
+IN-Jaipur,India,City-level,Jaipur,26.9124,75.7873,11.3,1479,Counterfeiting,4,Tuesday,27.9
+IN-Lucknow,India,City-level,Lucknow,26.8467,80.9462,11.2,1456,Traffic Violation,3,Sunday,27.5
+IN-Kanpur,India,City-level,Kanpur,26.4499,80.3319,10.5,1112,Vandalism,14,Saturday,27.8
+IN-Surat,India,City-level,Surat,21.1702,72.8311,10.5,1111,Traffic Violation,17,Monday,27.5
+IN-Nagpur,India,City-level,Nagpur,21.1458,79.0882,10.3,1053,Assault,7,Monday,28.2
+IN-Agra,India,City-level,Agra,27.1767,78.0081,9.7,764,Assault,9,Friday,29.8
+IN-Ludhiana,India,City-level,Ludhiana,30.901,75.8573,9.7,761,Fraud,16,Monday,28.1
+IN-Visakhapatnam,India,City-level,Visakhapatnam,17.6868,83.2185,9.6,728,Traffic Violation,10,Tuesday,28.4
+IN-Thane,India,City-level,Thane,19.2183,72.9781,9.6,706,Cybercrime,22,Saturday,29.0
+IN-Ghaziabad,India,City-level,Ghaziabad,28.6692,77.4538,9.6,704,Traffic Violation,2,Thursday,29.3
+IN-Indore,India,City-level,Indore,22.7196,75.8577,9.6,699,Firearm Offense,17,Thursday,30.6
+IN-Patna,India,City-level,Patna,25.5941,85.1376,9.5,695,Sexual Assault,9,Sunday,31.1
+IN-Bhopal,India,City-level,Bhopal,23.2599,77.4126,9.5,690,Assault,22,Sunday,28.6
+IN-Meerut,India,City-level,Meerut,28.9845,77.7064,8.9,395,Domestic Violence,9,Friday,31.1
+IN-Srinagar,India,City-level,Srinagar,34.0837,74.7973,8.8,371,Vehicle - Stolen,0,Friday,26.7
+IN-Nashik,India,City-level,Nashik,19.9975,73.7898,8.8,366,Assault,2,Monday,29.0
+IN-Vasai,India,City-level,Vasai,19.3919,72.8397,8.8,362,Counterfeiting,7,Friday,29.0
+IN-Varanasi,India,City-level,Varanasi,25.3176,82.9739,8.8,355,Arson,15,Sunday,25.6
+IN-Kalyan,India,City-level,Kalyan,19.2403,73.1305,8.8,355,Traffic Violation,10,Thursday,24.8
+IN-Faridabad,India,City-level,Faridabad,28.4089,77.3178,8.8,354,Assault,7,Thursday,32.8
+IN-Rajkot,India,City-level,Rajkot,22.3039,70.8022,8.7,320,Extortion,10,Saturday,27.8
